@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josedandrade
 - 👀 I’m interested in natural language processing (NLP), in particular natural legal language processing (NLLP)
 - 🌱 I’m currently learning computational linguistics
-- 💞️ I’m looking to collaborate on data science, text mining, argument mining
+- 💞️ I’m want to work on argument mining
 - 📫 How to reach me? dandrade@legaldesign.do or dandrade.jose@gmail.com
 
 <!---
